@@ -1,0 +1,24 @@
+{
+  "name": "artwork-cover-prompt-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semkata22/Artwork-Cover-Prompt-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/semkata22/Artwork-Cover-Prompt-Generator/issues"
+  },
+  "homepage": "https://github.com/semkata22/Artwork-Cover-Prompt-Generator#readme",
+  "dependencies": {
+    "lowdb": "^7.0.1"
+  }
+}
