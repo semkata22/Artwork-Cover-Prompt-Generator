@@ -1,0 +1,7 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Mathematical Principles Database",
+  "description": "A collection of mathematical principles and theorems",
+  "data": []
+}

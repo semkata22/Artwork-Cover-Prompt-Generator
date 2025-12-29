@@ -1,0 +1,7 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Art Movements Database",
+  "description": "A collection of art movements with metadata",
+  "data": []
+}
