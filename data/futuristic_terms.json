@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Futuristic Terms Database",
+  "description": "A collection of futuristic and sci-fi terminology",
+  "data": [
+    {
+      "@type": "DefinedTerm",
+      "id": "future_001",
+      "name": "Quantum Entanglement Communication",
+      "description": "Instantaneous communication using entangled quantum particles",
+      "category": "Physics/Communication",
+      "popularizedIn": "21st century sci-fi"
+    }
+  ]
+}
